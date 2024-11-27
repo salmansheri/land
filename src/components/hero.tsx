@@ -1,6 +1,5 @@
 "use client";
 import ButtonLink from "./button-link";
-import StarGrid from "./star-grid";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { useRef } from "react";
